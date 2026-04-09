@@ -1,6 +1,5 @@
 import { FlipWords } from "./FlipWords";
-import { motion } from "motion/react";
-
+import { motion } from "framer-motion";
 const HeroText = () => {
   const words = [" Modern", " Powerful", " Scalable", " Efficient", " Innovative"];
 

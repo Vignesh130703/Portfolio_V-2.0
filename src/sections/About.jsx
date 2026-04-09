@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import { Particles } from "../components/Particles";
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import Card from "../components/Card";
 import { Globe } from "../components/globe";
 import CopyEmailButton from "../components/CopyEmailButton";
