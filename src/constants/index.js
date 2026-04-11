@@ -132,13 +132,12 @@ export const experiences = [
   {
     title: "Computer Science Graduate",
     job: "Academic Foundation",
-    date: "2020-2023",
+    date: "2020-2024",
     contents: [
-      "Completed a Computer Science degree building strong foundations in algorithms, data structures, and software engineering.",
+      "Completed a Computer Science and Engineering degree building an strong foundations.",
       "Developed early projects in web development, automation scripting, and 3D modeling.",
-      "Explored cloud systems, networking fundamentals, and DevOps practices through coursework and self-study.",
-      "Built first freelance projects while still studying — client websites, scrapers, and automation tools.",
-    ],
+      "Explored cloud systems, networking fundamentals, and DevOps practices through self-study.",
+      "Graduated with a focus on software development, cloud computing, and emerging web technologies.",],
   },
   {
     title: "Freelance Developer",
